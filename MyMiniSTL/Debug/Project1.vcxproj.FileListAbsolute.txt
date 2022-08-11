@@ -1,0 +1,2 @@
+E:\C++Lenrning\CPPproject\MiniSTL\Project1\Debug\Project1.exe
+E:\C++Lenrning\CPPproject\MiniSTL\Project1\Debug\Project1.pdb
